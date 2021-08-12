@@ -1,4 +1,3 @@
-var str = 'Вы вели неверный ответ!';
 var name = prompt('Введите свое имя: ');
 console.log('Ваше имя: ' + name);
 
